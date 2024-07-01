@@ -3,7 +3,8 @@
 </p>
 
 # TanamPintar - Machine Learning
-Hello! This is machine learning part of TanamPintar Application made by Capstone Team C241-PS481. We do a soil classification to be able to recommend suitable crops to be grown on that soil
+Hello! This is machine learning part of TanamPintar Application made by Capstone Team C241-PS481. 
+We do a soil classification to be able to recommend suitable crops to be grown on that soil
 
 # Packages that we use in Google Colab/Jupyter Notebook
 |   Packages |                                
