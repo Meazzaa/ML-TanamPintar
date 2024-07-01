@@ -7,30 +7,27 @@ Hello! This is machine learning part of TanamPintar Application made by Capstone
 We do a soil classification to be able to recommend suitable crops to be grown on that soil
 
 # Packages that we use in Google Colab/Jupyter Notebook
-|   Packages |                                
+| Packages |                                
 | :----------------: | 
-|    Tensorflow |
-|  Keras      |  
+| Numpy |
 | Pandas |  
-| Numpy |  
+| Keras |  
+| Tensorflow |  
 | Matplotlib |  
 
 # Image Classification Model
-|   Model |                                Classification Output                               |
+|   Model | Classification Output |
 | :----------------: | :----------------------------------------------------------------: |
-|   Transfer Learning : MobileNetV2     |      Alluvial Soil                        |
-|  Input : Image(224, 224)  |  Black Soil                 |
-| Output : 4 labels|  Clay Soil      |
-| Total params: 10,286,788 |  Red Soil          |
+| Transfer Learning : MobileNetV2 | Alluvial Soil |
+| Input : Image(224, 224) | Black Soil |
+| Output : 4 labels | Clay Soil |
+| Total params: 10,286,788 | Red Soil |
 | Trainable params: 8,028,804 |
 | Time : 2454s |
 
-## Important link
+# Important : Link
 
 - [Colab Notebook](https://colab.research.google.com/drive/1AV_71rctzwamn65qekfuOiNO9e0QNvt5?usp=sharing)
 - [Dataset](https://drive.google.com/drive/folders/14xMhXjNgHtCShL0OBISxZ4rkMVyig21l?usp=sharing)
+- [Model](https://drive.google.com/file/d/1CAK8RKvii9lWNw4ExDubFNuguW5dRQgh/view?usp=sharing)
 
-## Prerequisites
-1. [Google Colab](https://colab.research.google.com/)
-3. [Python](https://www.python.org/downloads/) version 3.9 or above
-4. [Tensorflow](https://www.tensorflow.org/install) version 2.16.0 or above
